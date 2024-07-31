@@ -78,7 +78,7 @@ st.title("Evaluate a RAG App")
 with st.expander("Evaluate the quality of a RAG APP"):
     st.write("""
         To evaluate the quality of a RAG app, we will
-        ask it questions for which we already know the
+        ask questions for which we already know the
         real answers.
         
         That way we can see if the app is producing
